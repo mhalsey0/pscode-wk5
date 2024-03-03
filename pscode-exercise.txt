@@ -1,0 +1,7 @@
+Fizz buzz
+
+Count = range of 1-15
+
+If remainder of count divided by 3 is 0 then print fizz
+If remainder of count divided by 5 is 0 then print buzz
+If both statements are true then print FIZZ BUZZ
